@@ -26,7 +26,7 @@ Charbel-Raphaël Ségerie: crsegerie[at]gmail.com
 | 14/12/23 | 9- AI governance | --- |
 | 21/12/23 | 10- Projects | --- |
 
-[**Reading List**](https://docs.google.com/document/d/15vIU5i2Vp_6qhhbowNu4E0DUSQTVrA93LXqaDnqWI4w/edit?usp=sharing)
+[**Reading List**](https://docs.google.com/document/d/15vIU5i2Vp_6qhhbowNu4E0DUSQTVrA93LXqaDnqWI4w/edit?usp=sharing) (work in progress)
 
 Note that we won't have class on 19/10/23 (enseignement sur la transition écologique), 02/11/23 (holidays) and  30/11/23 (PSL Week).
 
