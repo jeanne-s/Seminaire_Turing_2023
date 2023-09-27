@@ -9,8 +9,7 @@ Jeanne Salle: jeanne.salle[at]yahoo.fr\
 Léo Dana: cargodana8[at]gmail.com\
 Charbel-Raphaël Ségerie: crsegerie[at]gmail.com
 
-**Sign up to receive emails and updates**  
-[Enrolment form](https://forms.gle/GC42zeR7HQR7DZ8B8)
+**Sign up to receive emails and updates**: [Enrolment form](https://forms.gle/GC42zeR7HQR7DZ8B8)
 
 **Schedule and course material**
 
