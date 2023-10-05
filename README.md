@@ -16,7 +16,7 @@ Charbel-Raphaël Ségerie: crsegerie[at]gmail.com
 | Date     |      Topic    |  Course Material  |
 |----------|:-------------:|------|
 | 28/09/23 | 1- Introduction and ML State-of-the-art | [Textbook](https://docs.google.com/document/d/12dEjesnosrTmOoHifXFL8SHa5CuOYrHc9kP5HW0BTf4/edit?usp=sharing) - [Slides](https://docs.google.com/presentation/d/15fRF3CDrUgv0sIidzXLvCAzEkpw2BhpCt5KRDIP8y80/edit?usp=sharing) |
-| 05/10/23 | 2- Vision interpretability | [Textbook](https://github.com/jeanne-s/Seminaire_Turing_2023/blob/main/Vision_Interpretability_Introduction.pdf) |
+| 05/10/23 | 2- Vision interpretability | [Textbook](https://github.com/jeanne-s/Seminaire_Turing_2023/blob/main/Vision_Interpretability_Introduction.pdf) - [Slides](https://docs.google.com/presentation/d/1IiCX6-nUnUphfb_rw0XD81bw1A2lGG8jbwph0mUuHjA/edit?usp=sharing) |
 | 12/10/23 | 3- Outer Misalignment and Reward Misspecification | --- |
 | 26/10/23 | 4- Inner Misalignment and Goal Misgeneralization | --- |
 | 09/11/23 | 5- Scalable Oversight | --- |
