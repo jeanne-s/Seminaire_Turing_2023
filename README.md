@@ -36,4 +36,4 @@ Note that we won't have class on 19/10/23 (enseignement sur la transition écolo
 
 **Course content at Master MVA**: [Overview](https://www.master-mva.com/cours/seminaire-turing/)
 
-**Course validation**: Student's presentation + final project + regular attendance
+**Course validation (6 ECTS)**: Student's presentation + final project + regular attendance
