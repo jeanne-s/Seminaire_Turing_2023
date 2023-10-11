@@ -34,7 +34,7 @@ Note that we won't have class on 19/10/23 (enseignement sur la transition écolo
 **Room**: Salle Noether, ENS Ulm, Département de Mathématiques et Applications
 
 
-**Course content at Master MVA**: [Overview](https://www.master-mva.com/cours/seminaire-turing/)
+**Course content at Master MVA**: [Overview](https://www.master-mva.com/cours/seminaire-turing/)\
 **Full Textbook**: [Textbook](https://docs.google.com/document/d/1ZwR2rhlQClLwxyzVTnWv_ntwQXFzc057IXePUX2SLKc/edit#heading=h.ot2pmxko1z8d) (work in progress)
 
 **Course validation (6 ECTS)**: Student's presentation + final project + regular attendance
