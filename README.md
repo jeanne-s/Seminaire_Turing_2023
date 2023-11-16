@@ -21,8 +21,8 @@ Charbel-Raphaël Ségerie: crsegerie[at]gmail.com
 | 26/10/23 | 4- Scalable Oversight | [Textbook](https://docs.google.com/document/d/1YdwdYNfvONG6C6AkN16zOiZh75Td4xMsUXLwBf2Bch4/edit#heading=h.gqawztin9fef) - [Slides](https://docs.google.com/presentation/d/1aAplL-UJ3F4x41VFEacwbrc1o9QYTz5xy_dGq9QCnkw/edit?usp=sharing) |
 | 09/11/23 | 5- Transformer interpretability | [Slides](https://docs.google.com/presentation/d/18ngo3ocl3ZKtkdHpDxYXcVqTdZjGaP1v3CwfVEAwacU/edit?usp=sharing) |
 | 16/11/23 | 6- AI governance | [Slides](https://docs.google.com/presentation/d/1sqZW0TMY6QoRFf8CiMfUXUvMiLYbJI2ML8N77iB_0yA/edit?usp=sharing) |
-| 23/11/23 | 7- Evaluations + transformer interpretability 2 | --- |
-| 07/11/23 | 8- Projects | --- |
+| 23/11/23 | 7- Singular Learning Theory - Developmental interpretability | --- |
+| 07/11/23 | 8- Projects & TP PyTorch | --- |
 | 14/12/23 | 9- Projects | --- |
 | 21/12/23 | 10- Projects | --- |
 
