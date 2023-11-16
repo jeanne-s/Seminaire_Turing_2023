@@ -20,7 +20,7 @@ Charbel-Raphaël Ségerie: crsegerie[at]gmail.com
 | 12/10/23 | 3- Outer and Inner Misalignment | [Textbook 1](https://docs.google.com/document/d/1G1PbNwj1Aa1JlhZ9Fv4Hr_oGAfAa6y2i0o0joJkLWWY/edit?usp=sharing), [2](https://docs.google.com/document/d/111fjqF7daP12bQcoXHSaNkVw68C7Du6bKnNw7urOFcY/edit?usp=sharing) - [Slides](https://docs.google.com/presentation/d/13i-d--WFCHnZzhTO2bgFUj0emPst-C7BLEE0QRE5H0E/edit?usp=sharing) |
 | 26/10/23 | 4- Scalable Oversight | [Textbook](https://docs.google.com/document/d/1YdwdYNfvONG6C6AkN16zOiZh75Td4xMsUXLwBf2Bch4/edit#heading=h.gqawztin9fef) - [Slides](https://docs.google.com/presentation/d/1aAplL-UJ3F4x41VFEacwbrc1o9QYTz5xy_dGq9QCnkw/edit?usp=sharing) |
 | 09/11/23 | 5- Transformer interpretability | [Slides](https://docs.google.com/presentation/d/18ngo3ocl3ZKtkdHpDxYXcVqTdZjGaP1v3CwfVEAwacU/edit?usp=sharing) |
-| 16/11/23 | 6- AI governance | --- |
+| 16/11/23 | 6- AI governance | [Slides](https://docs.google.com/presentation/d/1sqZW0TMY6QoRFf8CiMfUXUvMiLYbJI2ML8N77iB_0yA/edit?usp=sharing) |
 | 23/11/23 | 7- Evaluations + transformer interpretability 2 | --- |
 | 07/11/23 | 8- Projects | --- |
 | 14/12/23 | 9- Projects | --- |
