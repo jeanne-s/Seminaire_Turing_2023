@@ -22,15 +22,15 @@ Charbel-Raphaël Ségerie: crsegerie[at]gmail.com
 | 09/11/23 | 5- Transformer interpretability | [Slides](https://docs.google.com/presentation/d/18ngo3ocl3ZKtkdHpDxYXcVqTdZjGaP1v3CwfVEAwacU/edit?usp=sharing) |
 | 16/11/23 | 6- AI governance | [Slides](https://docs.google.com/presentation/d/1sqZW0TMY6QoRFf8CiMfUXUvMiLYbJI2ML8N77iB_0yA/edit?usp=sharing) |
 | 23/11/23 | 7- Singular Learning Theory - Developmental interpretability | [Notes](https://drive.google.com/file/d/1BKvfUkAmkPml0pj2kWrcjJ5NG9pZ8GJz/view?usp=sharing) - [LW Sequence](https://www.lesswrong.com/s/czrXjvCLsqGepybHC) |
-| 07/11/23 | 8- Projects & Discussion | --- |
-| 14/12/23 | 9- Projects | --- |
-| 21/12/23 | 10- Projects | --- |
+| 30/11/23 | 8- Projects & Discussion | --- |
+| 07/12/23 | 9- Projects | --- |
+| 14/12/23 | 10- Projects | --- |
 
 [**Reading List**](https://docs.google.com/document/d/15vIU5i2Vp_6qhhbowNu4E0DUSQTVrA93LXqaDnqWI4w/edit?usp=sharing) (work in progress)\
 [**Full Textbook**](https://docs.google.com/document/d/1ZwR2rhlQClLwxyzVTnWv_ntwQXFzc057IXePUX2SLKc/edit#heading=h.ot2pmxko1z8d) (work in progress)\
 [**Projects' list**](https://www.notion.so/effisciences-research/AI-Safety-Research-Projets-2023-835cf15d3a95432d9d820bcb5ad3baf7)
 
-Note that we won't have class on 19/10/23 (enseignement sur la transition écologique), 02/11/23 (holidays) and  30/11/23 (PSL Week).
+Note that we won't have class on 19/10/23 (enseignement sur la transition écologique) and 02/11/23 (holidays).
 
 **Time**: Thursdays, 18:00-20:00\
 **Room**: Salle Noether, ENS Ulm, Département de Mathématiques et Applications
